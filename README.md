@@ -14,3 +14,11 @@ A Java-based multi-threaded chat application that enables real-time communicatio
 - Multiple client support
 - Concurrent client handling
 - Client-server communication
+
+  ## Requirements
+
+- Java JDK 8 or above
+- Visual Studio Code (VS Code)
+- Java Extension Pack for VS Code
+- Windows 10/11
+- Internet or Local Network Connection
